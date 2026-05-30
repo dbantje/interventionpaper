@@ -5,3 +5,4 @@ bw_simapro_csv
 seaborn
 jupyterlab
 zenodo-get
+pypardiso
