@@ -1,0 +1,93 @@
+main_methods:
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - acidification:
+  terrestrial no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - climate change:
+  freshwater ecosystems no LT - incl. H and bio CO2 no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - climate change:
+  terrestrial ecosystems no LT - incl. H and bio CO2 no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - ecotoxicity:
+  freshwater no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - ecotoxicity:
+  marine no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - ecotoxicity:
+  terrestrial no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - eutrophication:
+  freshwater no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - eutrophication:
+  marine no LT'
+- ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - land use no LT
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - photochemical
+  oxidant formation: terrestrial ecosystems no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - water use: aquatic
+  ecosystems no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - ecosystem quality no LT - water use: terrestrial
+  ecosystems no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - acidification: terrestrial'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - climate change: freshwater
+  ecosystems - incl. H and bio CO2'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - climate change: terrestrial
+  ecosystems - incl. H and bio CO2'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - ecotoxicity: freshwater'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - ecotoxicity: marine'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - ecotoxicity: terrestrial'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - eutrophication: freshwater'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - eutrophication: marine'
+- ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - land use
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - photochemical oxidant formation:
+  terrestrial ecosystems'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - water use: aquatic ecosystems'
+- 'ReCiPe 2016 v1.03, endpoint (H) - ecosystem quality - water use: terrestrial ecosystems'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - human health no LT - climate change: human
+  health no LT - incl. H and bio CO2 no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - human health no LT - human toxicity: carcinogenic
+  no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - human health no LT - human toxicity: non-carcinogenic
+  no LT'
+- ReCiPe 2016 v1.03, endpoint (H) no LT - human health no LT - ionising radiation
+  no LT
+- ReCiPe 2016 v1.03, endpoint (H) no LT - human health no LT - ozone depletion no
+  LT
+- ReCiPe 2016 v1.03, endpoint (H) no LT - human health no LT - particulate matter
+  formation no LT - with adapted intake fractions
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - human health no LT - photochemical oxidant
+  formation: human health no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - human health no LT - water use: human health
+  no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) - human health - climate change: human health -
+  incl. H and bio CO2'
+- 'ReCiPe 2016 v1.03, endpoint (H) - human health - human toxicity: carcinogenic'
+- 'ReCiPe 2016 v1.03, endpoint (H) - human health - human toxicity: non-carcinogenic'
+- ReCiPe 2016 v1.03, endpoint (H) - human health - ionising radiation
+- ReCiPe 2016 v1.03, endpoint (H) - human health - ozone depletion
+- ReCiPe 2016 v1.03, endpoint (H) - human health - particulate matter formation -
+  with adapted intake fractions
+- 'ReCiPe 2016 v1.03, endpoint (H) - human health - photochemical oxidant formation:
+  human health'
+- 'ReCiPe 2016 v1.03, endpoint (H) - human health - water use: human health'
+- 'ReCiPe 2016 v1.03, endpoint (H) - natural resources - energy resources: non-renewable,
+  fossil'
+- 'ReCiPe 2016 v1.03, endpoint (H) - natural resources - material resources: metals/minerals'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - natural resources no LT - energy resources: non-renewable,
+  fossil no LT'
+- 'ReCiPe 2016 v1.03, endpoint (H) no LT - natural resources no LT - material resources: metals/minerals no LT'
+metal_methods:
+- RELICS - metals extraction - Aluminium
+- RELICS - metals extraction - Copper
+- RELICS - metals extraction - Lead
+- RELICS - metals extraction - Lithium
+- RELICS - metals extraction - Nickel
+- RELICS - metals extraction - Manganese
+- RELICS - metals extraction - Zinc
+- RELICS - metals extraction - Cobalt
+- RELICS - metals extraction - Graphite
+- RELICS - metals extraction - REEs
+- RELICS - metals extraction - PGMs
+- RELICS - metals extraction - Vanadium
+- RELICS - metals extraction - Cadmium
+- RELICS - metals extraction - Molybdenum
+- RELICS - metals extraction - Tantalum
+- RELICS - metals extraction - Chromium
+- RELICS - metals extraction - Zirconium
+- RELICS - metals extraction - Tellurium
+- RELICS - metals extraction - Gallium
+- RELICS - metals extraction - Indium

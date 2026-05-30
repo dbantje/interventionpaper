@@ -1,0 +1,267 @@
+- FE - final energy - Buildings - Heating - Biofuel - Cellulosic - Energy crops
+- FE - final energy - Buildings - Heating - Biofuel - Cellulosic - Residues
+- FE - final energy - Buildings - Heating - Biofuel - Non-cellulosic - Oil crops
+- FE - final energy - Buildings - Heating - District Heating
+- FE - final energy - Buildings - Heating - Gases
+- FE - final energy - Buildings - Heating - H2
+- FE - final energy - Buildings - Heating - Heat pump
+- FE - final energy - Buildings - Heating - LPG
+- FE - final energy - Buildings - Heating - Liquid coal
+- FE - final energy - Buildings - Heating - Oil
+- FE - final energy - Buildings - Heating - Resistance
+- FE - final energy - Buildings - Heating - Solid Coal
+- FE - final energy - Buildings - Heating - Solid biomass modern
+- FE - final energy - Buildings - Heating - Solid biomass traditional
+- FE - final energy - Buildings - Heating - Syn Fuel
+- FE - final energy - Buildings - Other - Elec
+- FE - final energy - Industry - Cement - Bio CH4
+- FE - final energy - Industry - Cement - Biofuel - Cellulosic - Energy crops
+- FE - final energy - Industry - Cement - Biofuel - Cellulosic - Residues
+- FE - final energy - Industry - Cement - Biofuel - Non-cellulosic - Oil crops
+- FE - final energy - Industry - Cement - Elec
+- FE - final energy - Industry - Cement - H2
+- FE - final energy - Industry - Cement - Nat Gas
+- FE - final energy - Industry - Cement - Oil
+- FE - final energy - Industry - Cement - SNG
+- FE - final energy - Industry - Cement - Solid biomass
+- FE - final energy - Industry - Cement - Solid coal
+- FE - final energy - Industry - Cement - Syn Fuel
+- FE - final energy - Industry - Chemicals - Chemicals - Bio CH4
+- FE - final energy - Industry - Chemicals - Chemicals - Biofuel - Cellulosic - Energy
+  crops
+- FE - final energy - Industry - Chemicals - Chemicals - Biofuel - Cellulosic - Residues
+- FE - final energy - Industry - Chemicals - Chemicals - Biofuel - Non-cellulosic
+  - Oil crops
+- FE - final energy - Industry - Chemicals - Chemicals - Elec, high temp
+- FE - final energy - Industry - Chemicals - Chemicals - Elec, low temp
+- FE - final energy - Industry - Chemicals - Chemicals - H2
+- FE - final energy - Industry - Chemicals - Chemicals - Liquid fossil
+- FE - final energy - Industry - Chemicals - Chemicals - Nat Gas
+- FE - final energy - Industry - Chemicals - Chemicals - SNG
+- FE - final energy - Industry - Chemicals - Chemicals - Solid Biomass
+- FE - final energy - Industry - Chemicals - Chemicals - Solid coal
+- FE - final energy - Industry - Chemicals - Chemicals - Syn Fuel
+- FE - final energy - Industry - Non-energy use - Bio CH4
+- FE - final energy - Industry - Non-energy use - Biofuel - Energy crops
+- FE - final energy - Industry - Non-energy use - Biofuel - Oil crops
+- FE - final energy - Industry - Non-energy use - Biofuel - Residues
+- FE - final energy - Industry - Non-energy use - Biomass
+- FE - final energy - Industry - Non-energy use - Hydrogen
+- FE - final energy - Industry - Non-energy use - Liquid fossil
+- FE - final energy - Industry - Non-energy use - Nat Gas
+- FE - final energy - Industry - Non-energy use - Solid coal
+- FE - final energy - Industry - Non-energy use - Syn Fuel
+- FE - final energy - Industry - Other - Bio CH4
+- FE - final energy - Industry - Other - Biofuel - Cellulosic - Energy crops
+- FE - final energy - Industry - Other - Biofuel - Cellulosic - Residues
+- FE - final energy - Industry - Other - Biofuel - Non-cellulosic - Oil crops
+- FE - final energy - Industry - Other - Elec, high temp
+- FE - final energy - Industry - Other - Elec, low temp
+- FE - final energy - Industry - Other - H2
+- FE - final energy - Industry - Other - Heat
+- FE - final energy - Industry - Other - Liquid fossil
+- FE - final energy - Industry - Other - Nat Gas
+- FE - final energy - Industry - Other - SNG
+- FE - final energy - Industry - Other - Solid Biomass
+- FE - final energy - Industry - Other - Solid coal
+- FE - final energy - Industry - Other - Syn Fuel
+- FE - final energy - Industry - Steel - All steel - Bio CH4
+- FE - final energy - Industry - Steel - All steel - Biofuel - Energy crops
+- FE - final energy - Industry - Steel - All steel - Biofuel - Oil crops
+- FE - final energy - Industry - Steel - All steel - Biofuel - Residues
+- FE - final energy - Industry - Steel - All steel - Elec
+- FE - final energy - Industry - Steel - All steel - H2
+- FE - final energy - Industry - Steel - All steel - Liquid fossil
+- FE - final energy - Industry - Steel - All steel - Nat Gas
+- FE - final energy - Industry - Steel - All steel - SNG
+- FE - final energy - Industry - Steel - All steel - Solid Biomass
+- FE - final energy - Industry - Steel - All steel - Solid coal
+- FE - final energy - Industry - Steel - All steel - Syn Fuel
+- FE - final energy - Transport - Freight - Domestic Shipping - Biofuel - Energy crops
+- FE - final energy - Transport - Freight - Domestic Shipping - Biofuel - Oil crops
+- FE - final energy - Transport - Freight - Domestic Shipping - Biofuel - Residues
+- FE - final energy - Transport - Freight - Domestic Shipping - Liquid fossil
+- FE - final energy - Transport - Freight - Domestic Shipping - Syn Fuel
+- FE - final energy - Transport - Freight - Int. Shipping - Biofuel - Energy crops
+- FE - final energy - Transport - Freight - Int. Shipping - Biofuel - Oil crops
+- FE - final energy - Transport - Freight - Int. Shipping - Biofuel - Residues
+- FE - final energy - Transport - Freight - Int. Shipping - Liquid fossil
+- FE - final energy - Transport - Freight - Int. Shipping - Syn Fuel
+- FE - final energy - Transport - Freight - Rail - Biofuel - Energy crops
+- FE - final energy - Transport - Freight - Rail - Biofuel - Oil crops
+- FE - final energy - Transport - Freight - Rail - Biofuel - Residues
+- FE - final energy - Transport - Freight - Rail - Elec
+- FE - final energy - Transport - Freight - Rail - Liquid fossil
+- FE - final energy - Transport - Freight - Rail - Syn Fuel
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - Bio CH4
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - Biofuel - Energy crops
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - Biofuel - Oil crops
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - Biofuel - Residues
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - Elec
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - H2
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - Liquid fossil
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - Nat Gas
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - SNG
+- FE - final energy - Transport - Freight - Truck(0-3_5t) - Syn Fuel
+- FE - final energy - Transport - Freight - Truck(18t) - Bio CH4
+- FE - final energy - Transport - Freight - Truck(18t) - Biofuel - Energy crops
+- FE - final energy - Transport - Freight - Truck(18t) - Biofuel - Oil crops
+- FE - final energy - Transport - Freight - Truck(18t) - Biofuel - Residues
+- FE - final energy - Transport - Freight - Truck(18t) - Elec
+- FE - final energy - Transport - Freight - Truck(18t) - H2
+- FE - final energy - Transport - Freight - Truck(18t) - Liquid fossil
+- FE - final energy - Transport - Freight - Truck(18t) - Nat Gas
+- FE - final energy - Transport - Freight - Truck(18t) - SNG
+- FE - final energy - Transport - Freight - Truck(18t) - Syn Fuel
+- FE - final energy - Transport - Freight - Truck(26t) - Bio CH4
+- FE - final energy - Transport - Freight - Truck(26t) - Biofuel - Energy crops
+- FE - final energy - Transport - Freight - Truck(26t) - Biofuel - Oil crops
+- FE - final energy - Transport - Freight - Truck(26t) - Biofuel - Residues
+- FE - final energy - Transport - Freight - Truck(26t) - Elec
+- FE - final energy - Transport - Freight - Truck(26t) - H2
+- FE - final energy - Transport - Freight - Truck(26t) - Liquid fossil
+- FE - final energy - Transport - Freight - Truck(26t) - Nat Gas
+- FE - final energy - Transport - Freight - Truck(26t) - SNG
+- FE - final energy - Transport - Freight - Truck(26t) - Syn Fuel
+- FE - final energy - Transport - Freight - Truck(40t) - Bio CH4
+- FE - final energy - Transport - Freight - Truck(40t) - Biofuel - Energy crops
+- FE - final energy - Transport - Freight - Truck(40t) - Biofuel - Oil crops
+- FE - final energy - Transport - Freight - Truck(40t) - Biofuel - Residues
+- FE - final energy - Transport - Freight - Truck(40t) - Elec
+- FE - final energy - Transport - Freight - Truck(40t) - H2
+- FE - final energy - Transport - Freight - Truck(40t) - Liquid fossil
+- FE - final energy - Transport - Freight - Truck(40t) - Nat Gas
+- FE - final energy - Transport - Freight - Truck(40t) - SNG
+- FE - final energy - Transport - Freight - Truck(40t) - Syn Fuel
+- FE - final energy - Transport - Freight - Truck(7_5t) - Bio CH4
+- FE - final energy - Transport - Freight - Truck(7_5t) - Biofuel - Energy crops
+- FE - final energy - Transport - Freight - Truck(7_5t) - Biofuel - Oil crops
+- FE - final energy - Transport - Freight - Truck(7_5t) - Biofuel - Residues
+- FE - final energy - Transport - Freight - Truck(7_5t) - Elec
+- FE - final energy - Transport - Freight - Truck(7_5t) - H2
+- FE - final energy - Transport - Freight - Truck(7_5t) - Liquid fossil
+- FE - final energy - Transport - Freight - Truck(7_5t) - Nat Gas
+- FE - final energy - Transport - Freight - Truck(7_5t) - SNG
+- FE - final energy - Transport - Freight - Truck(7_5t) - Syn Fuel
+- FE - final energy - Transport - Pass - Bus - Bio CH4
+- FE - final energy - Transport - Pass - Bus - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Bus - Biofuel - Oil crops
+- FE - final energy - Transport - Pass - Bus - Biofuel - Residues
+- FE - final energy - Transport - Pass - Bus - Elec
+- FE - final energy - Transport - Pass - Bus - H2
+- FE - final energy - Transport - Pass - Bus - Liquid fossil
+- FE - final energy - Transport - Pass - Bus - Nat Gas
+- FE - final energy - Transport - Pass - Bus - SNG
+- FE - final energy - Transport - Pass - Bus - Syn Fuel
+- FE - final energy - Transport - Pass - Compact Car - Bio CH4
+- FE - final energy - Transport - Pass - Compact Car - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Compact Car - Biofuel - Residues
+- FE - final energy - Transport - Pass - Compact Car - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Compact Car - Elec
+- FE - final energy - Transport - Pass - Compact Car - H2
+- FE - final energy - Transport - Pass - Compact Car - Liquid fossil
+- FE - final energy - Transport - Pass - Compact Car - Nat Gas
+- FE - final energy - Transport - Pass - Compact Car - SNG
+- FE - final energy - Transport - Pass - Compact Car - Syn Fuel
+- FE - final energy - Transport - Pass - Domestic Aviation - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Domestic Aviation - Biofuel - Oil crops
+- FE - final energy - Transport - Pass - Domestic Aviation - Biofuel - Residues
+- FE - final energy - Transport - Pass - Domestic Aviation - H2
+- FE - final energy - Transport - Pass - Domestic Aviation - Liquid fossil
+- FE - final energy - Transport - Pass - Domestic Aviation - Syn Fuel
+- FE - final energy - Transport - Pass - Int Aviation - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Int Aviation - Biofuel - Oil crops
+- FE - final energy - Transport - Pass - Int Aviation - Biofuel - Residues
+- FE - final energy - Transport - Pass - Int Aviation - Liquid fossil
+- FE - final energy - Transport - Pass - Int Aviation - Syn Fuel
+- FE - final energy - Transport - Pass - Large Car - Bio CH4
+- FE - final energy - Transport - Pass - Large Car - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Large Car - Biofuel - Residues
+- FE - final energy - Transport - Pass - Large Car - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Large Car - Elec
+- FE - final energy - Transport - Pass - Large Car - H2
+- FE - final energy - Transport - Pass - Large Car - Liquid fossil
+- FE - final energy - Transport - Pass - Large Car - Nat Gas
+- FE - final energy - Transport - Pass - Large Car - SNG
+- FE - final energy - Transport - Pass - Large Car - Syn Fuel
+- FE - final energy - Transport - Pass - Large Car and SUV - Bio CH4
+- FE - final energy - Transport - Pass - Large Car and SUV - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Large Car and SUV - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Large Car - Biofuel - Residues
+- FE - final energy - Transport - Pass - Large Car and SUV - Elec
+- FE - final energy - Transport - Pass - Large Car and SUV - H2
+- FE - final energy - Transport - Pass - Large Car and SUV - Liquid fossil
+- FE - final energy - Transport - Pass - Large Car and SUV - Nat Gas
+- FE - final energy - Transport - Pass - Large Car and SUV - SNG
+- FE - final energy - Transport - Pass - Large Car and SUV - Syn Fuel
+- FE - final energy - Transport - Pass - Midsize Car - Bio CH4
+- FE - final energy - Transport - Pass - Midsize Car - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Midsize Car - Biofuel - Residues
+- FE - final energy - Transport - Pass - Midsize Car - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Midsize Car - Elec
+- FE - final energy - Transport - Pass - Midsize Car - H2
+- FE - final energy - Transport - Pass - Midsize Car - Liquid fossil
+- FE - final energy - Transport - Pass - Midsize Car - Nat Gas
+- FE - final energy - Transport - Pass - Midsize Car - SNG
+- FE - final energy - Transport - Pass - Midsize Car - Syn Fuel
+- FE - final energy - Transport - Pass - Mini Car - Bio CH4
+- FE - final energy - Transport - Pass - Mini Car - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Mini Car - Biofuel - Residues
+- FE - final energy - Transport - Pass - Mini Car - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Mini Car - Elec
+- FE - final energy - Transport - Pass - Mini Car - H2
+- FE - final energy - Transport - Pass - Mini Car - Liquid fossil
+- FE - final energy - Transport - Pass - Mini Car - Nat Gas
+- FE - final energy - Transport - Pass - Mini Car - SNG
+- FE - final energy - Transport - Pass - Mini Car - Syn Fuel
+- FE - final energy - Transport - Pass - Moped - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Moped - Biofuel - Residues
+- FE - final energy - Transport - Pass - Moped - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Moped - Elec
+- FE - final energy - Transport - Pass - Moped - Liquid fossil
+- FE - final energy - Transport - Pass - Moped - Syn Fuel
+- FE - final energy - Transport - Pass - Motorcycle(50-250cc) - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Motorcycle(50-250cc) - Biofuel - Residues
+- FE - final energy - Transport - Pass - Motorcycle(50-250cc) - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Motorcycle(50-250cc) - Elec
+- FE - final energy - Transport - Pass - Motorcycle(50-250cc) - Liquid fossil
+- FE - final energy - Transport - Pass - Motorcycle(50-250cc) - Syn Fuel
+- FE - final energy - Transport - Pass - Motorcycle(>250cc) - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Motorcycle(>250cc) - Biofuel - Residues
+- FE - final energy - Transport - Pass - Motorcycle(>250cc) - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Motorcycle(>250cc) - Elec
+- FE - final energy - Transport - Pass - Motorcycle(>250cc) - Liquid fossil
+- FE - final energy - Transport - Pass - Motorcycle(>250cc) - Syn Fuel
+- FE - final energy - Transport - Pass - Rail - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Rail - Biofuel - Oil crops
+- FE - final energy - Transport - Pass - Rail - Biofuel - Residues
+- FE - final energy - Transport - Pass - Rail - Elec
+- FE - final energy - Transport - Pass - Rail - Liquid fossil
+- FE - final energy - Transport - Pass - Rail - Syn Fuel
+- FE - final energy - Transport - Pass - Subcompact Car - Bio CH4
+- FE - final energy - Transport - Pass - Subcompact Car - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Subcompact Car - Biofuel - Residues
+- FE - final energy - Transport - Pass - Subcompact Car - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Subcompact Car - Elec
+- FE - final energy - Transport - Pass - Subcompact Car - H2
+- FE - final energy - Transport - Pass - Subcompact Car - Liquid fossil
+- FE - final energy - Transport - Pass - Subcompact Car - Nat Gas
+- FE - final energy - Transport - Pass - Subcompact Car - SNG
+- FE - final energy - Transport - Pass - Subcompact Car - Syn Fuel
+- FE - final energy - Transport - Pass - Van - Bio CH4
+- FE - final energy - Transport - Pass - Van - Biofuel - Energy crops
+- FE - final energy - Transport - Pass - Van - Biofuel - Residues
+- FE - final energy - Transport - Pass - Van - Biofuel - Sugar crops
+- FE - final energy - Transport - Pass - Van - Elec
+- FE - final energy - Transport - Pass - Van - H2
+- FE - final energy - Transport - Pass - Van - Liquid fossil
+- FE - final energy - Transport - Pass - Van - Nat Gas
+- FE - final energy - Transport - Pass - Van - SNG
+- FE - final energy - Transport - Pass - Van - Syn Fuel
+- SE - cdr - biomass power generation, with CCS
+- SE - cdr - direct air capture (solvent) with storage
+- SE - cdr - enhanced rock weathering
+- SE - cdr - ocean liming
+- SE - cdr - synthetic fuels, with CCS
+- SE - VRE battery storage - For Wind
+- SE - VRE battery storage - For PV

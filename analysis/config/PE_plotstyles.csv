@@ -1,0 +1,14 @@
+variable;label;color;marker;linestyle
+PE|Biomass|++|w/ CC;BECCS;#33ff00;;
+PE|Biomass|++|w/o CC;Biomass;#005900;;
+PE|Coal|++|w/ CC;Coal w/ CC;#b2b2b2;;
+PE|Coal|++|w/o CC;Coal w/o CC;#0c0c0c;;
+PE|Gas|++|w/ CC;Gas w/ CC;#e5e5b2;;
+PE|Gas|++|w/o CC;Gas w/o CC;#999959;;
+PE|+|Geothermal;Geothermal;#e51900;;
+PE|+|Hydro;Hydro;#191999;;
+PE|+|Nuclear;Nuclear;#ff33ff;;
+PE|Oil|++|w/ CC;Oil w/ CC;#cc7500;;
+PE|Oil|++|w/o CC;Oil w/o CC;#663a00;;
+PE|+|Solar;Solar;#ffcc00;;
+PE|+|Wind;Wind;#337fff;;

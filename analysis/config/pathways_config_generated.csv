@@ -1,0 +1,4 @@
+datapackage;shares;regions;lcia;iterations;years;aggregate_locations;change_pm_compartments;stationary_battery_scen;full_distributions;centralize_subshares;apply_subshares_globally;remove_uncertainty;deterministic_categories
+output\SSP2-NPi2025-no-interventions_20260530_202754/pathways_datapackage.zip;no_subshares;World;main_methods;0;2025,2050;1;1;CONT;0;0;0;1;config/deterministic_categories.yml
+output\SSP2-PkBudg750-all-interventions_20260530_210721/pathways_datapackage.zip;no_subshares;World;main_methods;0;2025,2050;1;1;CONT;0;0;0;1;config/deterministic_categories.yml
+output\SSP2-PkBudg750-no-interventions_20260530_204301/pathways_datapackage.zip;no_subshares;World;main_methods;0;2025,2050;1;1;CONT;0;0;0;1;config/deterministic_categories.yml

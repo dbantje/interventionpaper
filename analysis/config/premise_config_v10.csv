@@ -1,0 +1,46 @@
+title;start;scenario;filepath;exclude_sectors;interventions;metals_intensity_factor;gains_scenario;metals_scenario;fleet_regionalization;shares_adjustments;split_capacity
+# main scenarios;;;;;;;;;;;
+SSP2-NPi2025-no-interventions;1;SSP2-NPi2025_feedstock;../data/remind_runs/remind_SSP2-NPi2025_feedstock.mif;;;;CLE;;;;0
+SSP2-PkBudg750-no-interventions;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;;;;0
+SSP2-PkBudg750-all-interventions;1;SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock.mif;;all:intervention;;CLE;intervention;;all:intervention;0
+# broad interventions;;;;;;;;;;;
+# SSP2-PkBudg750-wastetreatment;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;tailings:intervention,slags:intervention;;CLE;;;;0
+# SSP2-PkBudg750-lowbio;1;SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock.mif;;;;CLE;;;;0
+# SSP2-PkBudg750-APcontrol;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;smelting:intervention,woodstoves:intervention,shipping:intervention;;CLE;;;;0
+# SSP2-PkBudg750-recycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;copper:intervention;;CLE;intervention;;all:intervention;0
+# # detailed interventions;;;;;;;;;;;
+# SSP2-PkBudg750-purposelimit;1;SSP2-PkBudg750-lowbio100EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ_feedstock.mif;;;;CLE;;;;0
+# SSP2-PkBudg750-1stgenlimit;1;SSP2-PkBudg750-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-1stgenlim0p6EJ_feedstock.mif;;;;CLE;;;;0
+# SSP2-PkBudg750-tailings;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;tailings:intervention;;CLE;;;;0
+# SSP2-PkBudg750-slag;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;slags:intervention;;CLE;;;;0
+# SSP2-PkBudg750-metalefficiency;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;intervention;;;0
+# SSP2-PkBudg750-copperrecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;;;copper:intervention;0
+# SSP2-PkBudg750-otherrecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;copper:intervention;;CLE;;;aluminium:intervention,manganese:intervention,lithium:intervention,nickel:intervention,lead:intervention,zinc:intervention,cobalt:intervention;0
+# SSP2-PkBudg750-smelting;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;smelting:intervention;;CLE;;;;0
+# SSP2-PkBudg750-shipping;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;shipping:intervention;;CLE;;;;0
+# SSP2-PkBudg750-woodstoves;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;woodstoves:intervention;;CLE;;;;0
+# # extra recycling interventions;;;;;;;;;;;
+# SSP2-PkBudg750-copperrecovery;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;copper:intervention;;CLE;;;;0
+# SSP2-PkBudg750-aluminiumrecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;;;aluminium:intervention;0
+# SSP2-PkBudg750-lithiumrecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;;;lithium:intervention;0
+# SSP2-PkBudg750-nickelrecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;;;nickel:intervention;0
+# SSP2-PkBudg750-manganeserecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;;;manganese:intervention;0
+# SSP2-PkBudg750-leadrecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;;;lead:intervention;0
+# SSP2-PkBudg750-zincrecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;;;zinc:intervention;0
+# SSP2-PkBudg750-cobaltrecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;;;CLE;;;cobalt:intervention;0
+# # extras for foward sequence;;;;;;;;;;;
+# SSP2-PkBudg750-lowbio+slag;1;SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock.mif;;slags:intervention;;CLE;;;;0
+# SSP2-PkBudg750-lowbio+waste;1;SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock.mif;;tailings:intervention,slags:intervention;;CLE;;;;0
+# SSP2-PkBudg750-lowbio+waste+copper;1;SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock.mif;;tailings:intervention,slags:intervention;;CLE;;;copper:intervention;0
+# SSP2-PkBudg750-lowbio+waste+copper+eff;1;SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock.mif;;tailings:intervention,slags:intervention;;CLE;intervention;;copper:intervention;0
+# SSP2-PkBudg750-lowbio+waste+recycling;1;SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock.mif;;tailings:intervention,slags:intervention,copper:intervention;;CLE;intervention;;all:intervention;0
+# SSP2-PkBudg750-lowbio+waste+recycling+shipping;1;SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock.mif;;tailings:intervention,slags:intervention,copper:intervention,shipping:intervention;;CLE;intervention;;all:intervention;0
+# SSP2-PkBudg750-lowbio+waste+recycling+shipping+woodstoves;1;SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ-1stgenlim0p6EJ_feedstock.mif;;tailings:intervention,slags:intervention,copper:intervention,shipping:intervention,woodstoves:intervention;;CLE;intervention;;all:intervention;0
+# # extras for backward sequence;;;;;;;;;;;
+# SSP2-PkBudg750-smelting+woodstoves;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;smelting:intervention,woodstoves:intervention;;CLE;;;;0
+# SSP2-PkBudg750-APcontrol+otherrecycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;smelting:intervention,woodstoves:intervention,shipping:intervention;;CLE;;;aluminium:intervention,manganese:intervention,lithium:intervention,nickel:intervention,lead:intervention,zinc:intervention,cobalt:intervention;0
+# SSP2-PkBudg750-APcontrol+otherrecycling+eff;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;smelting:intervention,woodstoves:intervention,shipping:intervention;;CLE;intervention;;aluminium:intervention,manganese:intervention,lithium:intervention,nickel:intervention,lead:intervention,zinc:intervention,cobalt:intervention;0
+# SSP2-PkBudg750-APcontrol+recycling;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;smelting:intervention,woodstoves:intervention,shipping:intervention;;CLE;intervention;;all:intervention;0
+# SSP2-PkBudg750-APcontrol+recycling+tailings;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;smelting:intervention,woodstoves:intervention,shipping:intervention,tailings:intervention;;CLE;intervention;;all:intervention;0
+# SSP2-PkBudg750-APcontrol+recycling+waste;1;SSP2-PkBudg750_feedstock;../data/remind_runs/remind_SSP2-PkBudg750_feedstock.mif;;smelting:intervention,woodstoves:intervention,shipping:intervention,tailings:intervention,slags:intervention;;CLE;intervention;;all:intervention;0
+# SSP2-PkBudg750-APcontrol+recycling+waste+purposelimit;1;SSP2-PkBudg750-lowbio100EJ_feedstock;../data/remind_runs/remind_SSP2-PkBudg750-lowbio100EJ_feedstock.mif;;smelting:intervention,woodstoves:intervention,shipping:intervention,tailings:intervention,slags:intervention;;CLE;intervention;;all:intervention;0

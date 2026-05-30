@@ -1,0 +1,7 @@
+premise @ git+https://github.com/dbantje/premise@interventionpaper_v10
+pathways @ git+https://github.com/dbantje/pathways@interventionpaper
+multifunctional
+bw_simapro_csv
+seaborn
+jupyterlab
+zenodo-get

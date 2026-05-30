@@ -1,0 +1,15 @@
+# log files
+*.log
+
+# Cython caches
+*.pyc
+
+# premise exports
+analysis/export
+
+# pathways temp files
+analysis/pathways_temp
+
+# remind runs and outputs
+data/remind_runs
+analysis/output
