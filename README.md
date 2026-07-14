@@ -79,7 +79,7 @@ With Pathways output data either re-generated or downloaded, figures from the ma
 
 ## How to cite this work
 
-David Bantje, Sperring, E., Hahn Menacho, A. J., Sacchi, R., Dürrwächter, J., Rodrigues, R., Müßel, J., Hasse, R., Bauer, C., & Luderer, G. (2026). Research code for "Targeted interventions can ensure environmental co-benefits from energy decarbonization" (v0.9.0). Zenodo. https://doi.org/10.5281/zenodo.20485646
+David Bantje, Sperring, E., Hahn Menacho, A. J., Sacchi, R., Dürrwächter, J., Rodrigues, R., Müßel, J., Hasse, R., Bauer, C.& Luderer, G. (2026). Research code for "Targeted interventions can ensure environmental co-benefits from energy decarbonization" (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20492395
 
 ## License
 
